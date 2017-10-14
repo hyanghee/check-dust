@@ -1,0 +1,2803 @@
+starting .....
+Temp=23.0*C  Humidity=55.0%
+('Got temp ', '1048')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=55.0
+Temp=23.0*C  Humidity=55.0%
+('Got temp ', '1050')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=55.0
+Temp=23.0*C  Humidity=55.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=55.0
+Temp=23.0*C  Humidity=55.0%
+('Got temp ', '1054')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=55.0
+Temp=25.0*C  Humidity=54.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=54.0
+Temp=25.0*C  Humidity=51.0%
+('Got temp ', '1058')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=51.0
+Temp=24.0*C  Humidity=52.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=52.0
+Temp=23.0*C  Humidity=55.0%
+('Got temp ', '1062')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=55.0
+Temp=23.0*C  Humidity=54.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=54.0
+Temp=23.0*C  Humidity=55.0%
+('Got temp ', '1066')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=55.0
+Temp=23.0*C  Humidity=55.0%
+('Got temp ', '1068')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=55.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1070')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=55.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=55.0
+Temp=23.0*C  Humidity=55.0%
+('Got temp ', '1074')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=55.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1076')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1078')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1080')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1082')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1084')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1086')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1088')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1090')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '1104')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '1107')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1127')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1131')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1135')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1139')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1143')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1147')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1151')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=58.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=58.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=22.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=59.0
+Temp=22.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=59.0
+Temp=22.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=59.0
+Temp=22.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=59.0
+Temp=22.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=60.0
+Temp=23.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=59.0
+Temp=23.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=59.0
+Temp=23.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=60.0
+Temp=23.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=58.0
+Temp=23.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=58.0
+Temp=23.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=58.0
+Temp=23.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=58.0
+Temp=23.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=58.0
+Temp=23.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=58.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=58.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=57.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1241')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1245')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1249')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1253')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1257')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=55.0%
+('Got temp ', '1258')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=55.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1260')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=55.0%
+('Got temp ', '1261')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=55.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1263')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1264')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1266')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1267')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1269')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1270')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1272')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1273')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1275')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1276')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1278')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1279')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1281')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=56.0%
+('Got temp ', '1282')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=56.0
+Temp=23.0*C  Humidity=54.0%
+('Got temp ', '1284')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=54.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1285')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1287')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1288')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1290')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1291')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1293')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1294')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1296')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1299')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1302')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1305')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1308')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1311')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1314')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1317')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1320')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1325')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '1329')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=56.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=56.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '1423')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1427')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1431')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1435')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=59.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=24.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1474')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1477')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1479')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1482')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1484')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1487')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1489')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1492')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1494')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1497')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1499')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '1502')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '1504')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '1507')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '1509')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '1512')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '1514')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '1517')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=57.0%
+('Got temp ', '1519')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=57.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '1523')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '1526')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '1529')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=58.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=58.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '1557')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '1559')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '1562')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '1564')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '1567')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '1569')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '1574')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '1577')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=59.0%
+('Got temp ', '1585')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=59.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1591')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1593')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1596')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1598')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1601')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1603')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1606')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1608')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1611')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1613')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1616')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1618')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1620')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=24.0*C  Humidity=61.0%
+('Got temp ', '1624')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=61.0
+Temp=24.0*C  Humidity=61.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=61.0
+Temp=24.0*C  Humidity=61.0%
+('Got temp ', '1628')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=61.0
+Temp=24.0*C  Humidity=61.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=61.0
+Temp=24.0*C  Humidity=61.0%
+('Got temp ', '1632')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=61.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1636')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '1640')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=61.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=61.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=60.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=60.0
+Temp=25.0*C  Humidity=61.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=61.0
+Temp=25.0*C  Humidity=61.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=61.0
+Temp=25.0*C  Humidity=61.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=61.0
+Temp=25.0*C  Humidity=61.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=61.0
+Temp=25.0*C  Humidity=61.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=61.0
+Temp=25.0*C  Humidity=61.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=61.0
+Temp=25.0*C  Humidity=61.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=61.0
+Temp=25.0*C  Humidity=61.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=61.0
+Temp=24.0*C  Humidity=62.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=62.0
+Temp=24.0*C  Humidity=62.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=62.0
+Temp=24.0*C  Humidity=62.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=62.0
+Temp=24.0*C  Humidity=62.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=62.0
+Temp=24.0*C  Humidity=62.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=62.0
+Temp=24.0*C  Humidity=62.0%
+('Got temp ', '1694')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=62.0
+Temp=24.0*C  Humidity=62.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=62.0
+Temp=24.0*C  Humidity=62.0%
+('Got temp ', '1698')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=62.0
+Temp=24.0*C  Humidity=62.0%
+('Got temp ', '1701')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=62.0
+Temp=24.0*C  Humidity=62.0%
+('Got temp ', '1703')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=62.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1706')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1709')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1712')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1714')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1716')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1718')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1720')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1722')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1725')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1727')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1730')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1732')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1735')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1737')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1740')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1742')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1745')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '1747')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=63.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1752')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1755')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1757')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1760')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1762')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1765')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1767')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1770')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1772')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1775')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1777')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1780')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1782')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1806')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1810')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1814')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1818')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1822')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1826')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '1830')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '1834')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1889')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1892')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1894')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1897')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1899')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1903')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1907')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=25.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1911')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=25.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=64.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '1915')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '1918')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '1920')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1922')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1924')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1926')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1928')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1931')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1933')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1935')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1937')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1939')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1941')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=25.0*C  Humidity=64.0%
+('Got temp ', '1943')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=64.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1945')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1948')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=25.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=64.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1954')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1959')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1976')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1981')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1984')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1986')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '1989')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1991')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1994')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1996')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '1999')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2001')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2004')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2006')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2009')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2011')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2014')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2016')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2019')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2021')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2024')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2026')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2029')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2031')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2033')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2035')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2037')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2039')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2041')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2043')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2045')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2047')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2049')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2051')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=25.0*C  Humidity=63.0%
+('Got temp ', '2053')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=25.0&field4=63.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2055')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2057')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2059')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2061')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2063')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2065')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2067')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2069')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2073')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2077')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2081')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2085')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2089')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=64.0%
+('Got temp ', '2093')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=64.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2098')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2103')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2105')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2108')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2110')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2113')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2115')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2118')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2120')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2123')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2125')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2128')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2130')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2133')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2135')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2138')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2140')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2143')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2145')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2148')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2150')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2153')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2155')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2158')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2160')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2162')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2164')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=65.0%
+('Got temp ', '2166')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=65.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2168')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2170')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2172')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2174')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2176')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2178')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2180')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2182')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2184')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2186')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2188')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2190')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2192')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2194')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2198')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2202')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2206')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=24.0*C  Humidity=67.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=67.0
+Temp=24.0*C  Humidity=67.0%
+('Got temp ', '2210')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=67.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=23.0*C  Humidity=66.0%
+('Got temp ', '2214')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=23.0*C  Humidity=66.0%
+('Got temp ', '2218')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=23.0*C  Humidity=66.0%
+('Got temp ', '2223')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2227')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=23.0*C  Humidity=66.0%
+('Got temp ', '2229')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=66.0
+Temp=24.0*C  Humidity=66.0%
+('Got temp ', '2233')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=66.0
+Temp=23.0*C  Humidity=66.0%
+('Got temp ', '2235')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=66.0
+Temp=24.0*C  Humidity=67.0%
+('Got temp ', '2238')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2240')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=66.0%
+('Got temp ', '2242')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=66.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2244')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=24.0*C  Humidity=67.0%
+('Got temp ', '2246')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2248')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2250')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2252')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2254')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2256')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2258')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2260')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2262')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2264')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2266')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2268')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2270')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2272')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2274')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2276')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2278')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2280')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2282')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2284')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2286')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2290')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=67.0%
+('Got temp ', '2294')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=67.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2298')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2302')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2306')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2309')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2311')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2314')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2316')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2319')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2322')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2324')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2327')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2329')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2332')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2334')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2336')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2338')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2340')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2342')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2344')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2346')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2348')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2350')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2352')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2354')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2356')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2358')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2360')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2364')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=24.0*C  Humidity=68.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=24.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2368')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2372')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2376')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2380')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=68.0%
+('Got temp ', '2384')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=68.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2389')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2394')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2399')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2402')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2404')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2407')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2409')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2411')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2413')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2415')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2417')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2419')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2421')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2423')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2425')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2427')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2429')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2431')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2433')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2435')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2437')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2439')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2441')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2443')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2445')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2447')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '2451')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2455')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2459')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2463')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2467')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=69.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=69.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2471')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2475')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2479')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2483')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2487')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2491')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2496')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2498')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2501')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2503')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2506')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2508')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2511')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2513')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2516')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2518')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2521')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2523')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2526')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=22.0*C  Humidity=71.0%
+('Got temp ', '2528')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=71.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2531')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2533')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2536')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=22.0*C  Humidity=71.0%
+('Got temp ', '2538')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=71.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2541')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=23.0*C  Humidity=70.0%
+('Got temp ', '2543')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=70.0
+Temp=22.0*C  Humidity=71.0%
+('Got temp ', '2545')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=71.0
+Temp=22.0*C  Humidity=71.0%
+('Got temp ', '2547')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=71.0
+Temp=22.0*C  Humidity=71.0%
+('Got temp ', '2549')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=71.0
+Temp=22.0*C  Humidity=71.0%
+('Got temp ', '2551')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=71.0
+Temp=22.0*C  Humidity=71.0%
+('Got temp ', '2553')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=71.0
+Temp=22.0*C  Humidity=71.0%
+('Got temp ', '2555')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=71.0
+Temp=22.0*C  Humidity=71.0%
+('Got temp ', '2557')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=71.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2559')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2561')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2563')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2565')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2567')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2569')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2571')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2573')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2575')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2577')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2579')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2581')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2583')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=23.0*C  Humidity=71.0%
+('Got temp ', '2585')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=23.0&field4=71.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2587')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2589')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2591')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2593')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2595')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2597')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2602')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2607')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=71.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=71.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2612')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2617')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2622')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2627')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2632')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2637')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2640')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2642')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2645')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2647')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2650')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2652')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2655')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2657')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2660')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2662')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2665')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2667')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2670')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2672')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2675')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2677')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2680')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2682')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2685')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2687')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2689')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2691')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2693')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2695')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2697')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2699')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2701')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2703')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2705')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2707')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2709')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2711')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2713')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2717')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2721')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '2725')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=22.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=22.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '2781')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '2785')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '2789')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '2793')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '2797')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '2801')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '2805')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '2809')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '2813')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '2817')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '2820')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=72.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=72.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field2=21.0&field4=73.0
+Temp=21.0*C  Humidity=73.0%
+('Got temp ', '0')
+https://api.thingspeak.com/update?api_key=JYQPWHB0ENBYQ3TP&field
